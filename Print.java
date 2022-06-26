@@ -1,4 +1,4 @@
-public class CursoJava{
+public class Print{
   public static void main(String[] args){
 
     //DECLARANDO VARIAVEIS
